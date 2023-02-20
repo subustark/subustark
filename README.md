@@ -1,6 +1,6 @@
 <h1 align="center">HI 👋, I'M SUBRAMANI</h1>
 <h3 align="center">Budding MERN Stack Developer!!</h3>
-<p align="right"> <img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="800" height="400" /> </p>
+<p align="right-end"> <img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="800" height="400" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subustark&label=Profile%20views&color=0e75b6&style=flat" alt="subustark" /> </p>
 
