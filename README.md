@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **subustark25@gmail.com**
 
+<h2> <img src="https://cdn-icons-png.flaticon.com/512/921/921591.png" alt="stats" width="25" height="25" />  My Github stats</h2>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subu-mani-77194a251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subu-mani-77194a251" height="30" width="40" /></a>
