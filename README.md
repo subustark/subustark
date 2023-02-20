@@ -1,4 +1,4 @@
-<h2 align="right">HI 👋, I'M SUBRAMANI</h2>
+<h2 align="left">HI 👋, I'M SUBRAMANI</h2>
 <h3 align="center">Budding MERN Stack Developer!!</h3>
 <p align="center"> <img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="800" height="400" /> </p>
 
