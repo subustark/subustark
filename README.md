@@ -1,13 +1,12 @@
 <h1 align="center">HI 👋, I'M SUBRAMANI</h1>
 <h3 align="center">Budding MERN Stack Developer!!</h3>
+<p align="center"> <img src="https://stringfixer.com/files/197806252.jpg" width="600" height="600" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subustark&label=Profile%20views&color=0e75b6&style=flat" alt="subustark" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
 - 📫 How to reach me **subustark25@gmail.com**
-
-<h2> <img src="https://cdn-icons-png.flaticon.com/512/921/921591.png" alt="stats" width="25" height="25" />  My Github stats</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
